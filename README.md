@@ -5,6 +5,10 @@
 在 [mac](http://44ux.com/index.php/tag/mac/) 下安装 [nodejs](http://44ux.com/index.php/tag/nodejs-2/) 相对来说是比较方便的，如果你之前安装过类似 [Macports](http://www.macports.org/install.php) 或者[homebrew](http://mxcl.github.com/homebrew/) 这样的工具，只需要简单的一句话就可以安装。如果使用的是 Macports，那么在终端执行如下命令即可：
 
 ```
+/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
+```
+
+```
 `brew ``install` `node`
 ```
 
